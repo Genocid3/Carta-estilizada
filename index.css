@@ -27,3 +27,9 @@ body {
     quotes: "'" "'";
 }
 
+#date-1 {
+    float: right;
+    writing-mode: vertical-lr;
+    color:lightgray;
+}
+
